@@ -1,0 +1,23 @@
+{
+  "name": "consul-service-resolver",
+  "version": "1.0.0",
+  "description": "Insomnia plugins to resolve a consul service IP.",
+  "main": "app.js",
+  "author": "rendy.ananta@tokopedia.com",
+  "license": "ISC",
+  "insomnia": {
+    "name": "base64",                                                      
+    "displayName": "Insomnia Consul Service Resolver Plugin",                                        
+    "description": "Insomnia plugins to resolve a consul service IP.", 
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    },
+    "publisher": {
+      "name": "rendy",
+      "icon": "https://avatars.githubusercontent.com/u/17928929?v=4"
+    },
+
+    "unlisted": false
+  }
+}
